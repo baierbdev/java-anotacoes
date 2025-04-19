@@ -8,7 +8,6 @@
 
 [JDK](https://www.oracle.com/java/technologies/downloads/)
 
-
 [Intellij](https://www.jetbrains.com/idea/download/)
 
 # Primeiro Hello World
