@@ -1,9 +1,9 @@
 
 # Roteiro 
 ## Java
- - [Introdução ao java](./doc/introducao-ao-java.md) 
- - [Variáveis e tipos primitivos](./doc/variaveis-tipos-primitivos.md)
- - [Introdução a classes, objetos e herança.](./doc/introducao-classes-objetos-heranca.md)
+ - [Introdução ao java](./doc/java/introducao-ao-java.md) 
+ - [Variáveis e tipos primitivos](./doc/java/variaveis-tipos-primitivos.md)
+ - [Introdução a classes, objetos e herança.](./doc/java/introducao-classes-objetos-heranca.md)
  - Arrays
  - Operadores
  - Controle de fluxo
