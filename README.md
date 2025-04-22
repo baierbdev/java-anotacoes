@@ -3,9 +3,10 @@
  - [Introdução ao java](./doc/introducao-ao-java.md) 
  - [Variáveis e tipos primitivos](./doc/variaveis-tipos-primitivos.md)
  - [Introdução a classes, objetos e herança.](./doc/introducao-classes-objetos-heranca.md)
- - Arrays e ArrayList
+ - Arrays
  - Operadores
  - Controle de fluxo
+ - Métodos
  - Relações de composição entre objetos
  - POO
  - Tópicos avançados
