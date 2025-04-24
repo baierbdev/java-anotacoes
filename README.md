@@ -3,12 +3,12 @@
 ## Java
  - [Introdução ao java](./doc/introducao-ao-java.md) 
  - [Variáveis e tipos primitivos](./doc/variaveis-tipos-primitivos.md)
- - [Introdução a classes, objetos e herança.](./doc/introducao-classes-objetos-heranca.md)
- - Arrays
- - Operadores
- - Controle de fluxo
+ - [Arrays e ArraysList](./doc/java/arrays-arrayslist.md)
+ - [Operadores](./doc/java/operadores.md)
+ - [Controle de fluxo](./doc/java/controle-de-fluxo.md)
+ - [Loops](./doc/java/arrays-arrayslist.md)
  - Métodos
- - Relações de composição entre objetos
+ - [Introdução a classes, objetos e herança.](./doc/introducao-classes-objetos-heranca.md)
  - POO
  - Tópicos avançados
    - Strings e Number
