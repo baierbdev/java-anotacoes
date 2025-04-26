@@ -7,8 +7,8 @@
  - [Operadores](./doc/java/operadores.md)
  - [Controle de fluxo](./doc/java/controle-de-fluxo.md)
  - [Loops](./doc/java/arrays-arrayslist.md)
- - Métodos
  - [Introdução a classes, objetos e herança.](./doc/introducao-classes-objetos-heranca.md)
+ - [Métodos](./doc/java/metodos.md)
  - POO
  - Tópicos avançados
    - Strings e Number
