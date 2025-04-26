@@ -8,7 +8,7 @@
 | Módulo   | `%`     | Resto da divisão inteira  | `10 % 3`       | `1`       |
 
 
-# Logicos
+# Lógicos
 | Operador Lógico | Símbolo | Descrição                                  | Exemplo              | Resultado |
 |------------------|---------|--------------------------------------------|-----------------------|-----------|
 | E lógico         | `&&`    | Retorna `true` se ambos os operandos forem verdadeiros | `true && false`     | `false`   |
